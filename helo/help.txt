@@ -1,0 +1,29 @@
+npm init -y
+
+npm install express --save
+
+npm i -D nodemon
+        "scripts": {
+            "start": "nodemon app --watch app",
+
+npm start
+
+choco install insomnia-rest-api-client
+    httpie
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+git config --global user.name "Kriston Attila"
+git config --global user.email "kristonattila@ktch.hu"
+
+git init
+git status -u
+.gitignore
+
+node_modules/
+
+git add -all --> git add .
+
+git commit -m "Kezdés"
+
